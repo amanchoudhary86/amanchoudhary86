@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a145bf66-a969-4fda-b5fd-8eab8a5b85ef)![logo](https://github.com/amanchoudhary86/amanchoudhary86/blob/main/Banner.png?raw=true)
+![logo](https://github.com/amanchoudhary86/amanchoudhary86/blob/main/Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aman Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
